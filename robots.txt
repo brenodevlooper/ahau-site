@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahauconstrutora.com.br/sitemap.xml
