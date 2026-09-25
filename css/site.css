@@ -136,7 +136,6 @@ body:not(.no-gsap) .reveal span{transform:translateY(105%);opacity:0}
 .project--light .eyebrow{color:var(--green)}
 .project--light .project__title .eyebrow{color:var(--gold-soft)}
 .project--light .feats li::before{background:var(--green)}
-.project--light .split__img img{mix-blend-mode:multiply}
 
 /* =========================================================
    FÁBRICA — trilho horizontal (pin no desktop, swipe no celular)
